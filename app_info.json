@@ -1,6 +1,6 @@
 {
-  "gameAvailable": true,
-  "supportEnded": false,
+  "gameAvailable": false,
+  "supportEnded": true,
   "minRequiredVersion": "0.2.2",
   "latestVersion": "0.2.2",
   "downloadUrl": "https://t.me/projectwotblitz",
