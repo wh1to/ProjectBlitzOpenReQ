@@ -14,8 +14,8 @@
           "name": "События",
           "link": "/ru/news/#/event"
         },
-        "showTimer": true,
-        "timerEnd": "2025-12-31T23:59:59"
+        "showTimer": false,
+        // "timerEnd": "2025-12-31T23:59:59"
       },
       {
         "id": "item2",
@@ -44,31 +44,6 @@
         "category": {
           "name": "Обновления",
           "link": "/ru/news/#/updates"
-        },
-        "showTimer": false
-      },
-      {
-        "id": "news2",
-        "title": "Новые турниры",
-        "description": "Присоединяйтесь к еженедельным турнирам!",
-        "image": "https://example.com/news2.jpg",
-        "link": "/ru/news/tournaments/new-season/",
-        "category": {
-          "name": "Турниры",
-          "link": "/ru/news/#/tournaments"
-        },
-        "showTimer": true,
-        "timerEnd": "2025-12-25T23:59:59"
-      },
-      {
-        "id": "news3",
-        "title": "Новые танки",
-        "description": "В игру добавлены уникальные машины!",
-        "image": "https://example.com/news3.jpg",
-        "link": "/ru/news/vehicles/new-tanks/",
-        "category": {
-          "name": "Техника",
-          "link": "/ru/news/#/vehicles"
         },
         "showTimer": false
       }
