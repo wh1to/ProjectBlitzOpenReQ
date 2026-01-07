@@ -1,32 +1,78 @@
 {
-  "gridType": 2,
-  "items": [
-    {
-      "id": "item1",
-      "position": 1,
-      "title": "Событие «Праздничная почта»",
-      "description": "Открывай Локеры и Посылки — разбирай награды!",
-      "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/1920x1080_Afterparty_RIRsfNr.jpg__1048x590_q95_crop_subsampling-2.jpg",
-      "link": "/ru/news/event/jolly-post-office/",
-      "target": "_self",
-      "category": {
-        "name": "События",
-        "link": "/ru/news/#/event"
+  "mainGrid": {
+    "gridType": 2,
+    "items": [
+      {
+        "id": "item1",
+        "position": 1,
+        "title": "Событие «Праздничная почта»",
+        "description": "Открывай Локеры и Посылки — разбирай награды!",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/1920x1080_Afterparty_RIRsfNr.jpg__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "/ru/news/event/jolly-post-office/",
+        "target": "_self",
+        "category": {
+          "name": "События",
+          "link": "/ru/news/#/event"
+        },
+        "showTimer": true,
+        "timerEnd": "2025-12-31T23:59:59"
       },
-      "showTimer": true,
-      "timerEnd": "2025-12-31T23:59:59",
-      "timerStart": "2025-12-01T00:00:00"
-    },
-    {
-      "id": "item2",
-      "position": 2,
-      "title": "Премиум магазин",
-      "description": "Выгодные предложения и огромные бонусы ждут!",
-      "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/WoTB_PremShop_Bonus_1920x1080.jpg__1048x590_q95_crop_subsampling-2.jpg",
-      "link": "https://wargaming.net/shop/wotb/offers/",
-      "target": "_self",
-      "category": null,
-      "showTimer": false
-    }
-  ]
+      {
+        "id": "item2",
+        "position": 2,
+        "title": "Премиум магазин",
+        "description": "Выгодные предложения и огромные бонусы ждут!",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/WoTB_PremShop_Bonus_1920x1080.jpg__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "https://wargaming.net/shop/wotb/offers/",
+        "target": "_self",
+        "category": null,
+        "showTimer": false
+      }
+    ]
+  },
+  "newsList": {
+    "title": "Последние записи",
+    "viewAllLink": "/ru/news/",
+    "viewAllText": "Все записи",
+    "items": [
+      {
+        "id": "news1",
+        "title": "Обновление",
+        "description": "Зимняя Малиновка, Эшелон и Канал стали ещё лучше!",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Update_11_16_1920x1080.webp__168x98_q95_crop_subsampling-2.jpg",
+        "link": "/ru/news/updates/update-07-01/",
+        "category": {
+          "name": "Обновления",
+          "link": "/ru/news/#/updates"
+        },
+        "showTimer": false
+      },
+      {
+        "id": "news2",
+        "title": "Новые турниры",
+        "description": "Присоединяйтесь к еженедельным турнирам!",
+        "image": "https://example.com/news2.jpg",
+        "link": "/ru/news/tournaments/new-season/",
+        "category": {
+          "name": "Турниры",
+          "link": "/ru/news/#/tournaments"
+        },
+        "showTimer": true,
+        "timerEnd": "2025-12-25T23:59:59"
+      },
+      {
+        "id": "news3",
+        "title": "Новые танки",
+        "description": "В игру добавлены уникальные машины!",
+        "image": "https://example.com/news3.jpg",
+        "link": "/ru/news/vehicles/new-tanks/",
+        "category": {
+          "name": "Техника",
+          "link": "/ru/news/#/vehicles"
+        },
+        "showTimer": false
+      }
+    ],
+    "maxItems": 8
+  }
 }
