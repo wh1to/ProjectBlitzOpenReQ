@@ -4,31 +4,20 @@
     "items": [
       {
         "id": "item1",
-        "position": 1,
-        "title": "Событие «Праздничная почта»",
-        "description": "Открывай Локеры и Посылки — разбирай награды!",
-        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/1920x1080_Afterparty_RIRsfNr.jpg__1048x590_q95_crop_subsampling-2.jpg",
-        "link": "/ru/news/event/jolly-post-office/",
+        "position": 2,
+        "title": "Обновление 0.2.2",
+        "description": "Мы изменили много чего и этого стоит увидеть!",
+        "image": "background-image: url(&quot;https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Update_11_16_1920x1080.webp__1048x590_q95_crop_subsampling-2.jpg&quot;);",
+        "link": "/ru/news/updates/update-07-01/",
         "target": "_self",
         "category": {
-          "name": "События",
+          "name": "Обновления",
           "link": "/ru/news/#/event"
         },
         "showTimer": false
-      },
-      {
-        "id": "item2",
-        "position": 2,
-        "title": "Премиум магазин",
-        "description": "Выгодные предложения и огромные бонусы ждут!",
-        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/WoTB_PremShop_Bonus_1920x1080.jpg__1048x590_q95_crop_subsampling-2.jpg",
-        "link": "https://wargaming.net/shop/wotb/offers/",
-        "target": "_self",
-        "category": null,
-        "showTimer": false
       }
     ]
-  },
+  }
   "newsList": {
     "title": "Последние записи",
     "viewAllLink": "/ru/news/",
@@ -37,7 +26,7 @@
       {
         "id": "news1",
         "title": "Обновление",
-        "description": "Зимняя Малиновка, Эшелон и Канал стали ещё лучше!",
+        "description": "Мы изменили много чего и этого стоит увидеть!",
         "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Update_11_16_1920x1080.webp__168x98_q95_crop_subsampling-2.jpg",
         "link": "/ru/news/updates/update-07-01/",
         "category": {
