@@ -1,8 +1,8 @@
 {
-  "gameAvailable": false,
-  "supportEnded": true,
-  "minRequiredVersion": "0.2.2",
-  "latestVersion": "0.2.2",
+  "gameAvailable": true,
+  "supportEnded": false,
+  "minRequiredVersion": "2.2.0",
+  "latestVersion": "2.2.0",
   "downloadUrl": "https://t.me/projectwotblitz",
   "message": "inertia test s",
   "endDate": ""
