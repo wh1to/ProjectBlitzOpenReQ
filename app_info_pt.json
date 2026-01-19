@@ -1,8 +1,8 @@
 {
   "gameAvailable": true,
   "supportEnded": false,
-  "minRequiredVersion": "2.2.0",
-  "latestVersion": "2.2.0",
+  "minRequiredVersion": "2.5.0",
+  "latestVersion": "2.5.0",
   "downloadUrl": "https://t.me/projectwotblitz",
   "message": "",
   "endDate": ""
