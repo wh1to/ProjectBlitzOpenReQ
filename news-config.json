@@ -7,7 +7,7 @@
         "position": 1,
         "title": "Обновление 0.2.5",
         "description": "Мы изменили много чего и этого стоит увидеть!",
-        "image": "background-image: url(https://raw.githubusercontent.com/wh1to/ProjectBlitzOpenReQ/refs/heads/main/cdn/Update_11_16_1920x1080.webp__1048x590_q95_crop_subsampling-2.jpg);",
+        "image": "https://raw.githubusercontent.com/wh1to/ProjectBlitzOpenReQ/refs/heads/main/cdn/Update_11_16_1920x1080.webp__1048x590_q95_crop_subsampling-2.jpg",
         "link": "/ru/news/updates/update-07-01/",
         "target": "_self",
         "category": {
