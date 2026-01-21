@@ -15,9 +15,9 @@
           "link": "/ru/news/#/event"
         },
         "showTimer": false
-      },
+      }
     ]
-  }
+  },
   "newsList": {
     "title": "Последние записи",
     "viewAllLink": "/ru/news/",
