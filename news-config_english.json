@@ -19,9 +19,9 @@
     ]
   },
   "newsList": {
-    "title": "Последние записи",
-    "viewAllLink": "/ru/news/",
-    "viewAllText": "Все записи",
+    "title": "Latest posts",
+    "viewAllLink": "/eu/news/",
+    "viewAllText": "All posts",
     "items": [
       {
         "id": "news1",
