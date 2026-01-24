@@ -48,6 +48,18 @@
           "link": "/ru/news/#/updates"
         },
         "showTimer": false
+      },
+      {
+        "id": "news2",
+        "title": "Событие с плеерами",
+        "description": "Новое событие",
+        "image": "",
+        "link": "pages/news/events/graberry.html",
+        "category": {
+          "name": "События",
+          "link": ""
+        },
+        "showTimer": false
       }
     ],
     "maxItems": 8
