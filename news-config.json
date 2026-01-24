@@ -15,6 +15,20 @@
           "link": "/ru/news/#/event"
         },
         "showTimer": false
+      },
+      {
+        "id": "item2",
+        "position": 2,
+        "title": "Событие с плеерами",
+        "description": "Новое событие",
+        "image": "",
+        "link": "pages/news/events/graberry.html",
+        "target": "_self",
+        "category": {
+          "name": "Событие",
+          "link": "/ru/news/#/event"
+        },
+        "showTimer": false
       }
     ]
   },
