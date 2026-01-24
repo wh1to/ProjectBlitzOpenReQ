@@ -1,0 +1,41 @@
+{
+  "mainGrid": {
+    "gridType": 2,
+    "items": [
+      {
+        "id": "item1",
+        "position": 1,
+        "title": "Update 0.2.5",
+        "description": "New hangar, kaleidoscope container and other.",
+        "image": "https://raw.githubusercontent.com/wh1to/ProjectBlitzOpenReQ/refs/heads/main/cdn/Update_11_16_1920x1080.webp__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "pages/news/updates/en/update-22-01.html",
+        "target": "_self",
+        "category": {
+          "name": "Updates",
+          "link": "$"
+        },
+        "showTimer": false
+      }
+    ]
+  },
+  "newsList": {
+    "title": "Последние записи",
+    "viewAllLink": "/ru/news/",
+    "viewAllText": "Все записи",
+    "items": [
+      {
+        "id": "news1",
+        "title": "Update",
+        "description": "New hangar, kaleidoscope container and other.",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/Update_11_16_1920x1080.webp__168x98_q95_crop_subsampling-2.jpg",
+        "link": "pages/news/updates/update-22-01.html",
+        "category": {
+          "name": "Updates",
+          "link": "$"
+        },
+        "showTimer": false
+      }
+    ],
+    "maxItems": 8
+  }
+}
