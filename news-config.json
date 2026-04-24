@@ -5,6 +5,21 @@
       {
         "id": "item1",
         "position": 1,
+        "title": "Оптимизация для устройств",
+        "description": "Хотим рассказать вам об предстоящих изменений.",
+        "image": "https://raw.githubusercontent.com/wh1to/ProjectBlitzOpenReQ/refs/heads/main/cdn/",
+        "link": "pages/news/updates/quality_perfomance.html",
+        "time": "24.04",
+        "target": "_self",
+        "category": {
+          "name": "Обновления",
+          "link": "/ru/news/#/event"
+        },
+        "showTimer": false
+      },
+      {
+        "id": "item2",
+        "position": 2,
         "title": "Обновление 0.2.6",
         "description": "Новый интерфейс,шрифты, просмотр контейнер и больше!",
         "image": "https://raw.githubusercontent.com/wh1to/ProjectBlitzOpenReQ/refs/heads/main/cdn/",
@@ -18,8 +33,8 @@
         "showTimer": false
       },
       {
-        "id": "item2",
-        "position": 2,
+        "id": "item3",
+        "position": 3,
         "title": "Событие с плеерами",
         "description": "Новое событие",
         "image": "",
