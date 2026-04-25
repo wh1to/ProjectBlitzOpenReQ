@@ -16,7 +16,21 @@
           "link": "/ru/news/#/event"
         },
         "showTimer": false
-      }
+      },
+        "id": "item2",
+        "position": 2,
+        "title": "Помоги нам!",
+        "description": "Подробнее на странице.",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "pages/news/archive_content.html",
+        "time": "26.04",
+        "target": "_self",
+        "category": {
+          "name": "Обновления",
+          "link": "/ru/news/#/event"
+        },
+        "showTimer": false
+}
     ]
   },
   "newsList": {
@@ -30,6 +44,18 @@
         "description": "Хотим рассказать вам об предстоящих изменений.",
         "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
         "link": "pages/news/updates/quality_perfomance.html",
+        "category": {
+          "name": "Обновления",
+          "link": "/ru/news/#/updates"
+        },
+        "showTimer": false
+      },
+      {
+        "id": "news2",
+        "title": "Помоги нам!",
+        "description": "Подробнее на странице.",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "pages/news/archive_content.html",
         "category": {
           "name": "Обновления",
           "link": "/ru/news/#/updates"
