@@ -3,8 +3,8 @@
     "gridType": 2,
     "items": [
       {
-        "id": "item1",
-        "position": 1,
+        "id": "item3",
+        "position": 3,
         "title": "Оптимизация для устройств",
         "description": "Хотим рассказать вам об предстоящих изменений.",
         "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
@@ -24,6 +24,21 @@
         "description": "Подробнее на странице.",
         "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
         "link": "pages/news/archive_content.html",
+        "time": "26.04",
+        "target": "_self",
+        "category": {
+          "name": "Обновления",
+          "link": "/ru/news/#/event"
+        },
+        "showTimer": false
+},
+            {
+        "id": "item1",
+        "position": 1,
+        "title": "Тест видео контейнеров",
+        "description": "Подробнее на странице.",
+        "image": "https://media-wbp.wgcdn.co/media/filer_public_thumbnails/filer_public/images/announcement.jpg__1048x590_q95_crop_subsampling-2.jpg",
+        "link": "pages/news/updates/videochests_test.html",
         "time": "26.04",
         "target": "_self",
         "category": {
